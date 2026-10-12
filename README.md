@@ -15,5 +15,3 @@ Tworzę aplikację muzyczną **Sekunda**, która zamienia dowolną playlistę ze
 
 🔗 **Dołącz do społeczności:**
 [Discord](https://discord.gg/YhRndUpGY3)
-
-# LINK DO POBRANIA GRY - https://sekunda.itch.io/sekunda
